@@ -9,8 +9,13 @@ d. Write a program to print all prime numbers that fall between two numbers incl
 e. Write a program that keeps on accepting numbers from the user until the user enters Zero. Display the sum and average of all the numbers.
 
 f. Write a program to print the following pattern
+
             5 5 5 5 5
+            
             4 4 4 4
+            
             3 3 3
+            
             2 2
+            
             1
