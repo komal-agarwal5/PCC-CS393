@@ -1,0 +1,12 @@
+print("For unspecified input : ")
+q=input("Enter a value : ")
+print("Type of inputted value : ",type(q))
+p=input("Enter a value : ")
+print("Type of inputted value : ",type(p))
+print()
+print("For specified input : ")
+n=int(input("Enter a value : "))
+print("Type of inputted value : ",type(n))
+a=float(input("Enter a value : "))
+print("Type of inputted value : ",type(a))
+
