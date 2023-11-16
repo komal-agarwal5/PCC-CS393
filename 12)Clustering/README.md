@@ -1,0 +1,1 @@
+a. Write a script in Python for Normal Data Point clustering.
