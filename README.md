@@ -5,18 +5,18 @@
 
 ## How to Install
 
-1. Create a ```C``` virtual environment. 
+1. Create a ```Python``` virtual environment. 
 2. Clone the repo ```git clone https://github.com/komal-agarwal5/PCC-CS393.git``` or download the repository.
 3. Go to the cloned/downloaded directory ``` cd <folder_name> ```. 
-4. Run ``` pip3 install gcc ```.
-5. And now you can run the example scripts or create your own scripts.  
+4. Go to the [Python website.](https://www.python.org/)
+5. Download the software.
+6. Install it according to the guide.
+7. Open terminal and type ```python --version``` to see whether it is properly installed or not.
+8. And now you can run the example scripts or create your own scripts. 
 
 ## Usage
-- To run any program (without <math.h>), run ``` gcc filename.c -o name```, where filename is the name of the file you are wanting to execute; name = output executable file.
-- Then type ``` ./name```, and then press Enter to execute successfully.
-
-- To run any program (with <math.h>), run ``` gcc filename.c -lm```, where filename is the name of the file you are wanting to execute.
-- Then type ``` ./a.out```, and then press Enter to execute successfully.
+-  To run any python program, run ``` python filename.py```, where filename is the name of the file you are wanting to execute.
+- If the above command doesn't work, then run ``` python3 filename.py```, where again filename is the name of the file you are wanting to execute.
 
 ## FAQ
 - How to stop the script? Ctrl+C (control+C for Mac) 
@@ -40,4 +40,4 @@ Contact: [komal.agarwal0709@gmail.com]
 
 ---
 
-Made with ❤️ and C. <br><br>
+Made with ❤️ and Python. <br><br>
