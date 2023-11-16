@@ -1,6 +1,6 @@
 # PCC-CS393
 
-### This repository contains Python programs which I practised in my third semester for the PCC-CS393 paper(IT WORKSHOP) as a part of the 2nd year B.Tech Curriculum
+### This repository contains Python programs which I practised and notes I referred to in my third semester for the PCC-CS393 paper(IT WORKSHOP) as a part of the 2nd year B.Tech Curriculum
 <br>
 
 ## How to Install
@@ -31,7 +31,7 @@ Contact: [komal.agarwal0709@gmail.com]
 
 
 ## License
-[Apache License 2.0 ©️ Komal Agarwal]()
+[Apache License 2.0 ©️ Komal Agarwal](https://github.com/komal-agarwal5/PCC-CS393/blob/main/LICENSE)
 
 
 ## 🙋‍♂️ Support
