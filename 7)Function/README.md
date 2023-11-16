@@ -21,7 +21,7 @@ Note: Pascal's triangle is an arithmetic and geometric figure first imagined by 
 
 Sample Pascal's triangle:
 
-    			1
+    		1
 	
     	      1   1
 	
