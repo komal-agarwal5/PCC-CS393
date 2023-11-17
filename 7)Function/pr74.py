@@ -7,7 +7,7 @@ def pascal(n):
 			if j==0:
 				c=1
 			else:
-				c=c*(i-j+1)//j;
+				c=c*(i-j+1)//j
 			print(' ',c,end=' ')	
 		print('\n')
 n=int(input('Enter the number of rows : '))
